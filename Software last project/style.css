@@ -217,7 +217,8 @@ html,
     .contact {
       background-image: url("FNAF picture/FNAF-gang.jpg");
       background-repeat: no-repeat;
-      background-color: #f8f9fa; /* Light gray background color */
+      background-size: cover;
+      background-position: center;
       padding: 50px; 
       border-radius: 10px; 
       width: 100%;
